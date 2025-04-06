@@ -17,9 +17,9 @@ Follow X : (https://www.x.com/ystrem)
 
 ## Hardware requirements:
 
----
 
----
+- Some this like Cloud VPS 4C from Contabo should be fine.
+
 
 Here’s an alternative method to install and run Chromium using Docker, based on the `lscr.io/linuxserver/chromium:latest` image:
 
