@@ -1,4 +1,5 @@
 # BrowserNode
+- Projects which I run is in [DePinProjects](https://github.com/ystrem/BrowserNode/blob/main/DePinProjects.md)
 
 # Extension-nodes
 
