@@ -7,3 +7,4 @@
 - https://app.nodego.ai/r/NODE35E33A195A08
 - https://chrome.google.com/webstore/detail/stork/knnliglhgkmlblppdejchidfihjnockl Join me on Stork! Use my referral code: 4T6VKVSXID4T6VKVSXID
 - https://onprover.orochi.network/?referralCode=IcCh_Ystrem
+- https://app.gata.xyz?invite_code=gr5olpm9
